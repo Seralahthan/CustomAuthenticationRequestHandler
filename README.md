@@ -1,0 +1,2 @@
+# CustomAuthenticationRequestHandler
+This is a custom authentication request handler implementation extending the DefaultAuthenticationRequestHandler
