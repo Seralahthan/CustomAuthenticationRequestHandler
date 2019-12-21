@@ -1,0 +1,4 @@
+.idea/
+target/
+org.wso2.carbon.identity.application.authentication.framework.custom.iml
+CustomAuthenticationRequestHandler.iml
