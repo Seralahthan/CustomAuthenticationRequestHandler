@@ -3,9 +3,7 @@ package org.wso2.carbon.identity.application.authentication.framework.custom.int
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 import org.osgi.service.component.ComponentContext;
-import org.osgi.service.component.annotations.Activate;
-import org.osgi.service.component.annotations.Component;
-import org.osgi.service.component.annotations.Deactivate;
+import org.osgi.service.component.annotations.*;
 import org.wso2.carbon.identity.application.authentication.framework.custom.CustomAuthenticationRequestHandler;
 import org.wso2.carbon.identity.application.authentication.framework.handler.request.AuthenticationRequestHandler;
 
@@ -38,5 +36,4 @@ public class CustomAuthenticationRequestHandlerServiceComponent {
             log.debug("Custom Authentication Request Handler bundle is deactivated");
         }
     }
-
 }
