@@ -347,7 +347,7 @@
         <jacoco.version>0.7.9</jacoco.version>
         <carbon.identity.package.export.version>${project.version}</carbon.identity.package.export.version>
 
-        <carbon.identity.framework.version>5.12.387</carbon.identity.framework.version>
+        <carbon.identity.framework.version>5.20.254</carbon.identity.framework.version>
         <identity.framework.package.import.version.range>[5.0.0, 6.0.0)
         </identity.framework.package.import.version.range>
 
